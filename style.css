@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+	width: 760px;
+	height: 1047px;
+	margin: auto;
+	font: 18px Source Sans Pro, sans-serif;
+	color: #29304C;
+	box-sizing: content-box;
+	border: #4A5482 solid 1px;
+	position: relative;
+}
+
+h1 {
+	font-size: 38px;
+	line-height: 10px;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+a {
+	color: #29304C;
+}
+
+.inside-body {
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+}
+
+.li-no-mark {
+	list-style-type: none;
+}
+
+figure {
+	background-color: #4A5482;
+	padding: 22px;
+	
+}
+
+img[src="avatar.png"] {
+	border-radius: 200px;
+}
+
+header {
+	padding: 67px 153px 33px 77px;
+	left: 294px;
+}
+
+header h2 {color: #4A5482;}
+
+aside {
+	padding: 55px 29px 120px;
+	background-color: #4A5482;
+	color: white;
+	top: 294px;
+}
+
+aside a {
+	color: white;
+}
+
+main {
+	width: 370px;
+	padding: 43px 48px 79px;
+	left: 294px;
+	top: 183px;
+}
+
+footer {
+	
+	background-color: #C7D0E0;
+	padding: 20px 80px;
+	top: 982px;
+	width: 600px;
+
+}
+
+#footer-content {
+	position: relative;
+}
+
+#rss-logo {
+	position: absolute;
+	right: 0px;
+}
+
+#year {
+	position: absolute;
+	left: 285px;
+}
+
+img[src="logo-rsschool.png"] {
+	width: 70px;
+}
