@@ -1,1 +1,1 @@
-View my CV on https://weltraumm.github.io/rsschool-cv/ 
+View my CV on https://weltraumm.github.io/cv/
