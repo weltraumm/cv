@@ -1,1 +1,1 @@
-View my CV on https://weltraumm.github.io/cv/
+View my first CV on https://weltraumm.github.io/cv/
